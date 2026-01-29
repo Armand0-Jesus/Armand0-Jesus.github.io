@@ -8,6 +8,7 @@ and knowledge.
 
 ### Education
 Bachelors in Computer Science, University of Puerto Rico, Mayagüez
+
 2023 — Present
 
 Relevant-Courses-Passed: Object-Oriented Programming. Computer Organization, Operating Systems, Discrete Math, Statistical Data Analysis
