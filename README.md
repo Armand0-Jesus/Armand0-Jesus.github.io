@@ -9,6 +9,7 @@ and knowledge.
 ### Education
 Bachelors in Computer Science, University of Puerto Rico, Mayagüez
 2023 — Present
+
 Relevant-Courses-Passed: Object-Oriented Programming. Computer Organization, Operating Systems, Discrete Math, Statistical Data Analysis
 
 ### Affiliations
@@ -17,7 +18,9 @@ Member of Association for Computing Machinery-UPRM
 
 ### Skills
 Languages: C++. C, Python, Javascript, HTML, CSS, R
+
 Technologies: Flask, Bootstrap, Tailwind, SQLite, Microsoft Office, Git, Linux
+
 Soft-Skills: Critical Thinking, Time Management, Problem Solving, Adaptability, Interdisciplinary Collaboration, Fast Learning
 
 ### Projects
