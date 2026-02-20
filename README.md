@@ -19,7 +19,7 @@ Member of Association for Computing Machinery-UPRM
 ### Work Experience
 
 Center of Technology and Information (CTI) - Administration and Programming Division 
-<br> February 2026 - Present <br> University of Puerto Rico - Mayaguez 
+<br> 2026 - Present <br> University of Puerto Rico - Mayaguez 
 
 - 
 
