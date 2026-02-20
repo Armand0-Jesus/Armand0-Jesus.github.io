@@ -10,7 +10,7 @@ and knowledge.
 Bachelors in Computer Science, University of Puerto Rico, Mayagüez
 <br> 2023 — Present
 
-Relevant-Courses-Passed: Object-Oriented Programming. Computer Organization, Operating Systems, Discrete Math, Statistical Data Analysis
+Relevant-Courses-Passed: Object-Oriented Programming, Computer Organization, Operating Systems, Discrete Math, Statistical Data Analysis
 
 ### Affiliations
 Member of Association for Computing Machinery-UPRM
@@ -18,15 +18,15 @@ Member of Association for Computing Machinery-UPRM
 
 ### Work Experience
 
-Centro de Tecnologias de Informacion (CTI) - Administration and Programming Division <br> February 2026 - Present
-<br> University of Puerto Rico - Mayaguez 
+Centro de Tecnologias de Informacion (CTI) - Administration and Programming Division 
+<br> February 2026 - Present <br> University of Puerto Rico - Mayaguez 
 
 - 
 
 ### Skills
 Languages: C++. C, Python, Javascript, HTML, CSS, R
 
-Technologies: Flask, ReactJS, Bootstrap, Tailwind, SQLite, Microsoft Office, Git
+Technologies: Flask, ReactJS, Bootstrap, Tailwind, SQLite, MySql, WordPress, Microsoft Office, Git
 
 Soft-Skills: Critical Thinking, Time Management, Problem Solving, Adaptability, Interdisciplinary Collaboration, Fast Learning
 
