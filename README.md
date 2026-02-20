@@ -33,6 +33,6 @@ Soft-Skills: Critical Thinking, Time Management, Problem Solving, Adaptability, 
 ### Projects
 Investigation- Supermarket Price-Comparing AI agent prototype using Natural Language Processing (NLP) <br> August 2025- December 2025
 <br> University of Puerto Rico - Mayagüez
-- Researched about how the consumers could reduce cost and time via a application with access to the prizes of all supermarkets
+- Researched about how the consumers could reduce cost and time via a hypothetical application with access to the prizes of all supermarkets
 - Evaluated methods of artifical inteligence and optimization algorithms for implementing the data and agent
 - Created a website that worked as a prototype for comparing the prizes by products which would help find the most optimal supermarket for the user
