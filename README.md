@@ -17,8 +17,10 @@ Member of Association for Computing Machinery-UPRM
 2025 — Present
 
 ### Experience
+
 Centro de Tecnologias de Informacion (CTI) - Administration and Programming Division <br> February 2026 - Present
 <br> University of Puerto Rico - Mayaguez 
+
 - 
 
 ### Skills
