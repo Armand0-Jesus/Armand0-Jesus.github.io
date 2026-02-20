@@ -26,7 +26,7 @@ Centro de Tecnologias de Informacion (CTI) - Administration and Programming Divi
 ### Skills
 Languages: C++. C, Python, Javascript, HTML, CSS, R
 
-Technologies: Flask, Bootstrap, Tailwind, SQLite, Microsoft Office, Git, Linux
+Technologies: Flask, ReactJS, Bootstrap, Tailwind, SQLite, Microsoft Office, Git
 
 Soft-Skills: Critical Thinking, Time Management, Problem Solving, Adaptability, Interdisciplinary Collaboration, Fast Learning
 
