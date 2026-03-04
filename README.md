@@ -21,12 +21,14 @@ Member of Association for Computing Machinery-UPRM
 Center of Technology and Information (CTI) - Administration and Programming Division 
 <br> 2026 - Present <br> University of Puerto Rico - Mayaguez 
 
-- 
+- Conducted a feasibility analysis for implementing CiviCRM integrated with WordPress within the university’s email server and admissions systems and documented findings, system requirements, and deployment considerations for IT leadership review.
+- Tested and Researched CiviCRM Constituent Relationship Management integration capabilities with backend infrastructure, evaluating data flow and MySQL database configuration for future system implementation.
+- Configured and managed virtualization environments using VirtualBox to run multiple operating systems for development and testing purposes. 
 
 ### Skills
-Languages: C++. C, Python, Javascript, HTML, CSS, R
+Languages: C++. C, Python, Javascript, PHP, HTML, CSS, R
 
-Technologies: Flask, ReactJS, Bootstrap, Tailwind, SQLite, MySql, WordPress, Microsoft Office, Git
+Technologies: Flask, ReactJS, Bootstrap, SQLite, MySql, WordPress, Microsoft Office, Linux, Git
 
 Soft-Skills: Critical Thinking, Time Management, Problem Solving, Adaptability, Interdisciplinary Collaboration, Fast Learning
 
