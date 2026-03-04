@@ -7,16 +7,15 @@ Seeking an research or internship opportunity where i can assist with technologi
 and knowledge.
 
 ### Education
-Bachelors in Computer Science, University of Puerto Rico, Mayagüez
-<br> 2023 — Present
+Bachelors in Computer Science, University of Puerto Rico, Mayagüez | 2023 - Present
 
 Relevant Coursework: Object-Oriented Programming, Computer Organization, Operating Systems, Discrete Math, Statistical Data Analysis
 
 ### Affiliations
-Member, Association for Computing Machinery (ACM), UPRM | 2025–Present
+Member, Association for Computing Machinery (ACM), UPRM | 2025 – Present
 
 ### Work Experience
-Center of Technology and Information (CTI) - Administration and Programming Division, Univeristy of Puerto Rico - Mayaguez| 2026-Present 
+Center of Technology and Information (CTI) - Administration and Programming Division, Univeristy of Puerto Rico - Mayaguez | 2026 - Present 
 
 - Conducted a feasibility analysis for implementing CiviCRM integrated with WordPress within the university’s email server and admissions systems and documented findings, system requirements, and deployment considerations for IT leadership review.
 - Tested and Researched CiviCRM Constituent Relationship Management integration capabilities with backend infrastructure, evaluating data flow and MySQL database configuration for future system implementation.
