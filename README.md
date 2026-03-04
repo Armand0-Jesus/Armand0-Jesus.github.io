@@ -15,22 +15,22 @@ Relevant Coursework: Object-Oriented Programming, Computer Organization, Operati
 Member, Association for Computing Machinery (ACM), UPRM | 2025 – Present
 
 ### Work Experience
-Center of Technology and Information (CTI) - Administration and Programming Division, Univeristy of Puerto Rico - Mayaguez | 2026 - Present 
+Center of Technology and Information (CTI) - Administration and Programming Division, University of Puerto Rico - Mayagüez | 2026 - Present 
 
 - Conducted a feasibility analysis for implementing CiviCRM integrated with WordPress within the university’s email server and admissions systems and documented findings, system requirements, and deployment considerations for IT leadership review.
 - Tested and Researched CiviCRM Constituent Relationship Management integration capabilities with backend infrastructure, evaluating data flow and MySQL database configuration for future system implementation.
 - Configured and managed virtualization environments using VirtualBox to run multiple operating systems for development and testing purposes. 
 
 ### Skills
-Languages: C++. C, Python, Javascript, PHP, HTML, CSS, R
+Languages: C++. C, Python, JavaScript, PHP, HTML, CSS, R
 
-Technologies: Flask, ReactJS, Bootstrap, SQLite, MySql, WordPress, Microsoft Office, Linux, Git
+Technologies: Flask, ReactJS, Bootstrap, SQLite, MySQL, WordPress, Microsoft Office, Linux, Git, 
 
 Soft-Skills: Critical Thinking, Time Management, Problem Solving, Adaptability, Interdisciplinary Collaboration, Fast Learning
 
 ### Projects
 Investigation- Supermarket Price-Comparing AI agent prototype using Natural Language Processing (NLP) <br> August 2025- December 2025
 <br> University of Puerto Rico - Mayagüez
-- Researched about how the consumers could reduce cost and time via a hypothetical application with access to the prizes of all supermarkets.
+- Researched about how the consumers could reduce cost and time via a hypothetical application with access to the prices of all supermarkets.
 - Evaluated methods of artificial intelligence and optimization algorithms for implementing the data and agent.
 - Created a website that worked as a prototype for comparing the prizes by products which would help find the most optimal supermarket for the user.
