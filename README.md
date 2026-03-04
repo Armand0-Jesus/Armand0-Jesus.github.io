@@ -2,24 +2,21 @@
 
 ### Objective 
 Dedicated College Student wanting to keep expanding my knowledge in the field of Computer Science.
-Passionate and interested in full-stack development, system design and computer arquitecture. Self-Motivated with the ability to create new ideas and help foster the goals of a company.
-Seeking an research or internship opportunity where i can assist with tecnological iniciatives, work efficiently in teams, solve complex problems and optimize-processes using acquired experience
+Passionate and interested in full-stack development, system design and computer architecture. Self-Motivated with the ability to create new ideas and help foster the goals of a company.
+Seeking an research or internship opportunity where i can assist with technological iniciatives, work efficiently in teams, solve complex problems and optimize processes using acquired experience
 and knowledge.
 
 ### Education
 Bachelors in Computer Science, University of Puerto Rico, Mayagüez
 <br> 2023 — Present
 
-Relevant-Courses-Passed: Object-Oriented Programming, Computer Organization, Operating Systems, Discrete Math, Statistical Data Analysis
+Relevant Coursework: Object-Oriented Programming, Computer Organization, Operating Systems, Discrete Math, Statistical Data Analysis
 
 ### Affiliations
-Member of Association for Computing Machinery-UPRM
-2025 — Present
+Member, Association for Computing Machinery (ACM), UPRM | 2025–Present
 
 ### Work Experience
-
-Center of Technology and Information (CTI) - Administration and Programming Division 
-<br> 2026 - Present <br> University of Puerto Rico - Mayaguez 
+Center of Technology and Information (CTI) - Administration and Programming Division, Univeristy of Puerto Rico - Mayaguez| 2026-Present 
 
 - Conducted a feasibility analysis for implementing CiviCRM integrated with WordPress within the university’s email server and admissions systems and documented findings, system requirements, and deployment considerations for IT leadership review.
 - Tested and Researched CiviCRM Constituent Relationship Management integration capabilities with backend infrastructure, evaluating data flow and MySQL database configuration for future system implementation.
